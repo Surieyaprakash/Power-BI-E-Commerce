@@ -33,9 +33,9 @@ The dashboard was created using two Excel files:
 • Top Performing State: Maharashtra leads in terms of sales amount.
 • Category Leader: Clothing has the highest sales quantity (63%).
 • Most Profitable Sub-Category: Printers generate the highest profit.
-• Top Customers: Harivansh and Madhuvani lead in individual sales.
-• Popular Payment Mode: Cash on Delivery (COD) dominates with 43.7% of quantity share.
-• Seasonality: Highest profits observed in October (6.5K) and January (6.3K).
+• Top Customers: Harivansh lead in individual sales.
+• Popular Payment Mode: Cash on Delivery (COD) dominates with 45.6% of quantity share.
+• Seasonality: Highest profits observed in October (6.495k) and January (6.287K).
 
 🛠️ Tools Used:
 • Power BI Desktop for data modeling, dashboard design, and interactivity.
