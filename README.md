@@ -8,13 +8,14 @@ This project showcases an interactive and visually appealing Power BI dashboard 
 The dashboard was created using two Excel files:
 1. Orders.xlsx – Contains order details including customer name, quantity, product categories, sub-categories, profit, and payment methods.
 2. Details.xlsx – Provides additional transactional or customer data.
-3. 
+   
 🧩 Key Features of the Dashboard:
 • KPIs Overview:
   - Sum of AOV (Average Order Value): 121K
   - Sum of Profit: 37K
   - Sum of Amount: 438K
   - Sum of Quantity: 5615
+    
 • Visualizations:
   - Bar Chart: Sales amount by State
   - Pie Charts:
@@ -23,6 +24,7 @@ The dashboard was created using two Excel files:
   - Bar Chart: Amount by Customer Name
   - Horizontal Bar Chart: Profit by Product Sub-Category (e.g., Printers, Bookcases, Sarees)
   - Clustered Column Chart: Profit by Month (January to December)
+    
 • Slicers for Interaction:
   - By Quarter (Q1–Q4)
   - By State
